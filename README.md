@@ -22,3 +22,8 @@ a repository to keep my hyprland and the other things config files.
 # installition
 
 - just clone the repository and move the config files on your ```~/.config/```
+
+# other notes
+
+- if u dont use scaling, set the /hypr/hyprland.conf in line 26, ```monitor = , preferred, auto, 1```
+- u can also delete the line 54 on hyprland.conf if u dont have an touchpad
