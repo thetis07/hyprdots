@@ -2,9 +2,8 @@
 a repository to keep my hyprland and the other things config files.
 
 # screenshots
-![image](https://github.com/user-attachments/assets/cc298c92-6649-4e8e-b76b-cdd9eb46018e)
-![image](https://github.com/user-attachments/assets/30e3bafd-3dd0-4ecf-b3c0-2585a561c961)
-![image](https://github.com/user-attachments/assets/c37a2e72-166f-49d1-9ee2-ef29bf948be5)
+![image](https://github.com/user-attachments/assets/4d8491e4-bf32-49a6-904d-28bfa1e8671d)
+![image](https://github.com/user-attachments/assets/696d3fcf-31ee-4f77-b94d-2eedc133306e)
 
 # dependencies (for arch)
 
@@ -12,12 +11,14 @@ a repository to keep my hyprland and the other things config files.
 - hyprpaper
 - hyprshot
 - hyprpicker (optional)
+- hyprlock
+- hypridle
 - waybar
 - rofi-wayland
 - kitty
 - nvim (optional)
 
-- to install these, use ```yay -S hyprland hyprpaper hyprshot hyprpicker waybar rofi-wayland kitty nvim```
+- to install these, use ```yay -S hyprland hyprpaper hyprshot hyprpicker hyprlock hypridle waybar rofi-wayland kitty nvim```
 
 # installition
 
